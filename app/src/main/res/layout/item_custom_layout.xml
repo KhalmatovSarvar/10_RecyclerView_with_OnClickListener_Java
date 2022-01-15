@@ -2,8 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="100dp"
-    android:id="@+id/lay_click">
+    android:id="@+id/lay_click"
+    android:layout_height="102dp">
     <LinearLayout
         android:gravity="center"
         android:background="@color/purple_200"
@@ -34,7 +34,7 @@
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="2dp"
         android:background="#FFEB3B">
 
     </LinearLayout>
